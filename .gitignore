@@ -2,8 +2,8 @@ node_modules
 .next
 out
 coverage
-uploads
-artifacts
+/uploads
+/artifacts
 *.log
 .DS_Store
 .env
