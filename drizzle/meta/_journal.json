@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795007908680,
+      "tag": "0000_square_texas_twister",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1795012000000,
+      "tag": "0001_listings_moderation",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1795015000000,
+      "tag": "0002_search_favorites",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1795018000000,
+      "tag": "0003_inquiries_appointments",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1795021000000,
+      "tag": "0004_listing_reports",
+      "breakpoints": true
+    }
+  ]
+}
